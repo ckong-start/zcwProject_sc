@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zcw-common/zcw-common.iml" filepath="$PROJECT_DIR$/zcw-common/zcw-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcw-order/zcw-order.iml" filepath="$PROJECT_DIR$/zcw-order/zcw-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcw-parent/zcw-parent.iml" filepath="$PROJECT_DIR$/zcw-parent/zcw-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcw-project/zcw-project.iml" filepath="$PROJECT_DIR$/zcw-project/zcw-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcw-register/zcw-register.iml" filepath="$PROJECT_DIR$/zcw-register/zcw-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcw-user/zcw-user.iml" filepath="$PROJECT_DIR$/zcw-user/zcw-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zcw-webui/zcw-webui.iml" filepath="$PROJECT_DIR$/zcw-webui/zcw-webui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zcwProject_sc.iml" filepath="$PROJECT_DIR$/.idea/zcwProject_sc.iml" />
+    </modules>
+  </component>
+</project>

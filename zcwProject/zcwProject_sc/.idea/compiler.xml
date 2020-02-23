@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zcw-order" />
+        <module name="zcw-common" />
+        <module name="zcw-project" />
+        <module name="zcw-register" />
+        <module name="zcw-webui" />
+        <module name="zcw-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zcw-common" target="1.8" />
+      <module name="zcw-order" target="1.8" />
+      <module name="zcw-parent" target="1.8" />
+      <module name="zcw-project" target="1.8" />
+      <module name="zcw-register" target="1.8" />
+      <module name="zcw-user" target="1.8" />
+      <module name="zcw-webui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="zcw-order" options="-parameters" />
+      <module name="zcw-project" options="-parameters" />
+      <module name="zcw-register" options="-parameters" />
+      <module name="zcw-user" options="-parameters" />
+      <module name="zcw-webui" options="-parameters" />
+    </option>
+  </component>
+</project>
